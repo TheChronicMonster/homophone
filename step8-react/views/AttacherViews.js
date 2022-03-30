@@ -69,17 +69,17 @@ exports.AcceptTerms = class extends React.Component {
   }
 }
 
-// exports.See = class extends React.Component {
-//   render() {
-//     const {wordSeen} = this.props;
-//     return (
-//       <div>
-//         Name the homophone to your opponent's word:
-//         <br />{wordSeen || 'Unknown'}
-//       </div>
-//     );
-//   }
-// }
+exports.See = class extends React.Component {
+  render() {
+    const {wordSeen} = this.props;
+    return (
+      <div>
+        Name the homophone to your opponent's word:
+        <br />{wordSeen || 'Unknown'}
+      </div>
+    );
+  }
+}
 
 exports.WaitingForTurn = class extends React.Component {
   render() {

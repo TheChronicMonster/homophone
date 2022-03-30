@@ -5,7 +5,7 @@ const exports = {};
 // Player views must be extended.
 // It does not have its own Wrapper view.
 
-exports.pickWord = class extends React.Component {
+exports.GetWord1 = class extends React.Component {
   render() {
     const {parent, playable, word1} = this.props;
     return (
@@ -39,7 +39,7 @@ exports.pickWord = class extends React.Component {
   }
 }
 
-exports.guessWord = class extends React.Component {
+exports.GetWord2 = class extends React.Component {
   render() {
     const {parent, playable, word2} = this.props;
     return (
