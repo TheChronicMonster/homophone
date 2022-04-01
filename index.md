@@ -24,7 +24,7 @@ Fair warning, this tutorial does possess an added wrinkle of complexity,
 in that the Participants have been unconventionally named "Alice" and "Aleese." 
 This may be a feature or a bug. 
 We'll let you decide. 
-While the original concept of this tutorial is founded in a light-hearted April Fool's Day joke, 
+While the original concept of this tutorial was founded in a light-hearted April Fool's Day joke, 
 we've found that the similarities in the names forces a heightened level of focus. 
 If you have questions we're here for you in our [Discord's](https://discord.gg/q9Uxtxqu) [#help channel](https://discord.com/channels/628402598663290882/749639931399241792).
 
@@ -32,7 +32,7 @@ If you have questions we're here for you in our [Discord's](https://discord.gg/q
 
 This tutorial assumes that you, 
 the reader, 
-has completed at least one other Reach [tutorial](https://docs.reach.sh/tut/rps/#tut), 
+have completed at least one other Reach [tutorial](https://docs.reach.sh/tut/rps/#tut), 
 that you have [installed `reach`](https://docs.reach.sh/quickstart/) 
 and that you are able to create a directory and files for this project. 
 
@@ -59,7 +59,7 @@ In a new `index.rsh` file, start by documenting the version of Reach.
 'reach 0.1'
 ```
 
-Next, skip a few lines for the time being and define the `Player` constant.
+Next, define the `Player` constant.
 
 ```js 
 const Player = {
