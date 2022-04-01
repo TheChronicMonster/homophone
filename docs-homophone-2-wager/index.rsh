@@ -13,8 +13,8 @@ const winner = (wordAlice, wordAleese) => {
 };
 
 const Player = {
-    pickWord1: Fun([], UInt),
-    guessWord2: Fun([], UInt),
+    pickWord: Fun([], UInt),
+    guessWord: Fun([], UInt),
     seeOutcome: Fun([UInt], Null),
 };
 
