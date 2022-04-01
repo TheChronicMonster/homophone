@@ -1,0 +1,7 @@
+reachc: error[RE0056]: Invalid name shadowing. Identifier 'wordAleese' is already bound at ./index.rsh:31:12:dot. It cannot be bound again at ./index.rsh:33:32:id
+
+  ./index.rsh:41:27:application
+
+  41|     const outcome = winner(wordAlice, wordAleese);
+
+For further explanation of this error, see: https://docs.reach.sh/rsh/errors/#RE0056

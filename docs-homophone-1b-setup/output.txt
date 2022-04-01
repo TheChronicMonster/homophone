@@ -1,0 +1,14 @@
+Alice chooses "wrack"
+Aleese replies with "weight"
+Aleese saw outcome Alice wins
+Alice saw outcome Alice wins
+
+Alice chooses "write"
+Aleese replies with "rite"
+Aleese saw outcome Aleese wins
+Alice saw outcome Aleese wins
+
+Alice chooses "hi"
+Aleese replies with "rack"
+Aleese saw outcome undefined
+Alice saw outcome undefined
