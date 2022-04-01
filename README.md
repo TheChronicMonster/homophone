@@ -59,7 +59,7 @@ In a new `index.rsh` file, start by documenting the version of Reach.
 'reach 0.1'
 ```
 
-Next, skip a few lines for the time being and define the `Player` constant.
+Next, define the constant, `Player`.
 
 ```js 
 const Player = {
