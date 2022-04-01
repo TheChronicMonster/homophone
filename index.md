@@ -328,7 +328,8 @@ Save the file and execute `./reach compile` a second time.
 
 Reach should now compile correctly. 
 If there are any errors, review the instructions and code snippets above, 
-check for small mistakes and fix them until the program compiles successfully.
+check for small mistakes and fix them until the program compiles successfully. 
+The complete source code for [index.rsh](https://github.com/TheChronicMonster/homophone/blob/main/docs-homophone-1b-setup/index.rsh) and [index.mjs](https://github.com/TheChronicMonster/homophone/blob/main/docs-homophone-1b-setup/index.mjs) is available on GitHub.
 
 Once the program compiles successfully, 
 it is ready to run. Execute `./reach run`. 
